@@ -1,0 +1,29 @@
+_repo: The-Boy-With-the-U.S.-Miners_32322
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32322-h/images/cover.png
+creator:
+  author:
+    agent_name: Rolt-Wheeler, Francis
+    alias: Rolt-Wheeler, Francis William
+    birthdate: 1876
+    deathdate: 1960
+    gutenberg_agent_id: '4886'
+    url: http://www.gutenberg.org/2009/agents/4886
+    wikipedia: http://fr.wikipedia.org/wiki/Francis_Rolt-Wheeler
+description: ''
+gutenberg_issued: '2010-05-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32322'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States. Bureau of Mines -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Adventure stories'
+title: The Boy With the U.S. Miners
+url: http://www.gutenberg.org/ebooks/32322
